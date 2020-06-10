@@ -11,10 +11,10 @@
 
 -------------------------------------------------------
 
-## - Here is the mobile project -->
+## - Here is the mobile project --
 
-[Mobile](https://github.com/lcassiol/RN-radar-dev)
+- [Mobile](https://github.com/lcassiol/RN-radar-dev)
 
-## - Here is the backend project -->
+## - Here is the backend project --
 
-[Backend](https://github.com/lcassiol/nodejs-radar-dev/)
+- [Backend](https://github.com/lcassiol/nodejs-radar-dev/)
